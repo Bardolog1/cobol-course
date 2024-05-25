@@ -20,17 +20,14 @@
 Thumbs.db
 Desktop.ini
 
-# Archivos de configuración del IDE (por ejemplo, Visual Studio Code)
+# Archivos de configuración del IDE 
 .vscode/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Archivos de configuración del lenguaje COBOL
-*.cbl
-*.cob
-*.cpy
+
 
 # Carpeta de binarios
 bin/
