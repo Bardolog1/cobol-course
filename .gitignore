@@ -1,0 +1,36 @@
+# Archivos de objeto y binarios
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+
+# Archivos de salida
+*.out
+
+# Archivos temporales
+*.temp
+*.tmp
+*.bak
+*.swp
+
+# Archivos de configuración del sistema
+Thumbs.db
+Desktop.ini
+
+# Archivos de configuración del IDE (por ejemplo, Visual Studio Code)
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración del lenguaje COBOL
+*.cbl
+*.cob
+*.cpy
+
+# Carpeta de binarios
+bin/
